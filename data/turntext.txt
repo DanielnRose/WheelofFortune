@@ -1,0 +1,4 @@
+Player {players[playerNum]['name']}'s turn
+S: Spin the wheel
+B: buy a vowel
+G: Guess the word

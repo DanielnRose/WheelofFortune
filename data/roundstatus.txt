@@ -1,0 +1,4 @@
+After {round}
+players[0]['name'] has players[0]['gametotal']
+players[1]['name'] has players[1]['gametotal']
+players[2]['name'] has players[2]['gametotal']
